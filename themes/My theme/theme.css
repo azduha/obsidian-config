@@ -1,3 +1,7 @@
 :root body {
   --bold-color: orange;
 }
+
+#localGraph {
+	border: none !important;
+}
